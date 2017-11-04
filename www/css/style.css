@@ -1,0 +1,32 @@
+p{
+	color:#206020;
+}
+
+p{
+	font-family: Comic Sans MS;
+	font-size: 80%;
+}
+
+#headeret{
+	color:#c32017;
+}
+
+.new{
+	color:#6BC5E3;
+}
+
+ul li {
+	color:#cc0000;
+}
+
+a:link {
+	color: #111111;
+}
+
+a:visited {
+	color: #FAA21A;
+}
+
+a:hover {
+	color: #800000;
+}
